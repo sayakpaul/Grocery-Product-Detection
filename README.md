@@ -41,6 +41,7 @@ As we can see with 10k training steps the metrics keep on shining. I believe wit
 * Detection network used: SSD MobileDet.
 * Training hyperparameters are available inside `Misc\ Files/ssdlite_mobiledet_dsp_320x320_products_sync_4x4.config` file. 
 * Precision and recall reported in `Deliverables/metrics.json` are mean values computed over the `precision_@0.5IOU` and `recall_@0.5IOU` columns of `Misc\ Files/confusion_matrix.csv`.
+* A **threshold of 0.6** was used in order to obtain the number of products per test image. 
 
 ## Trained model files
 
