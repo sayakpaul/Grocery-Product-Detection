@@ -38,6 +38,7 @@ As we can see with 10k training steps the metrics keep on shining. I believe wit
 	* Random crops
 * Detection network used: SSD MobileDet.
 * Training hyperparameters are available inside `Misc\ Files/ssdlite_mobiledet_dsp_320x320_products_sync_4x4.config` file. 
+* Recall reported in `Deliverables/metrics.json` is from **AR@100** (as can be see on the TensorBoard snaps above).
 
 ## Trained model files
 
