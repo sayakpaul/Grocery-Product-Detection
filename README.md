@@ -21,7 +21,7 @@ This repository builds a product detection model to recognize products from groc
 
 ## Results
 
-Following snaps taken from TensorBoard after loading the evaluation logs (logs are available [here](https://drive.google.com/drive/folders/1sT5ztmXFRM69iYJvtcfMwGAzdgVtii29?usp=sharing)) - 
+Following snaps taken from TensorBoard after loading the evaluation logs (logs are available [here](https://github.com/sayakpaul/Grocery-Product-Detection/releases/download/v0.1.0/product-detection.zip)) - 
 
 ![](https://i.ibb.co/7ttLyBt/Screenshot-2021-01-16-at-8-42-58-PM.png)
 
@@ -45,7 +45,7 @@ As we can see with 10k training steps the metrics keep on shining. I believe wit
 
 ## Trained model files
 
-Find them [here](https://drive.google.com/drive/folders/1sT5ztmXFRM69iYJvtcfMwGAzdgVtii29?usp=sharing). If you are looking for the checkpoints, the latest ones are prefixed with `model.ckpt-10000`. There's also a frozen inference graph. 
+Find them [here](https://github.com/sayakpaul/Grocery-Product-Detection/releases/download/v0.1.0/product-detection.zip). If you are looking for the checkpoints, the latest ones are prefixed with `model.ckpt-10000`. There's also a frozen inference graph. 
 
 ## Dataset citation
 ```
